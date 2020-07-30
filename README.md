@@ -38,4 +38,4 @@ The FER2013 dataset ( facial expression recognition) consists of 48*48 pixel gra
 
 ## Camera Test
 <!-- Image -->
-![FacialEmotions](https://media.giphy.com/media/JpGP8Hj53BoW8cMj8F/giphy.gif)
+![Facial Emotions](https://user-images.githubusercontent.com/57441828/88949045-012d6880-d293-11ea-9a27-f48f63c51406.gif)
